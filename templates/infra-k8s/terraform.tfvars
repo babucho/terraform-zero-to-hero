@@ -1,0 +1,6 @@
+osimageid     = "ami-0f5ee92e2d63afc18"
+instanceType1 = "t2.medium"
+instanceType2 = "t2.micro"
+keyPair       = "general-key"
+subnet        = "subnet-0fd8ecb50075ab7c7"
+sg            = "sg-09812c028d574f11f"
